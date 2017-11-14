@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<header id="header">
-			<span>Header</span>
+			<div class="logo">TestLogo</div>
 		</header>
 		<div class="nav-container">		
 			<div class="xs-menu-cont">
