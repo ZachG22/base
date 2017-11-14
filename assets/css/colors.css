@@ -1,0 +1,43 @@
+:root {
+	    --black-color: #1c1c1c;
+	    --background-gray: #fff;
+	    --light-gray: #111111;
+	    --border-left-color: #e5474b;
+	    --dark-gray: #5a5a5a;
+	    --white: #ffffff;
+
+	    --button-hover: #676767;
+	    --button-active: #4d4d4d;
+	    --button-alt-hover: #fceced;
+	    --button-alt-active: #f9dadb;
+	    --button-alt-icon: #717171;
+	    --button-special-hover: #e85d61;
+	    --button-special-active: #e23135;
+
+	    --wrapper-style-1: #f2a3a5;
+	    --wrapper-style1-button-active: #4d4d4d;
+	    --wrapper-style1-button-alt-hover: rgba(255, 255, 255, 0.25);
+	    --wrapper-style1-button-alt-active: rgba(255, 255, 255, 0.2);
+	    --wrapper-style1-button-alt-icon: #f8d1d2;
+
+	    --wrapper-style-2: #d5d5d5;
+	    --wrapper-style2-border-left-color: rgba(255, 255, 255, 0.15);
+	    --wrapper-style2-code: rgba(255, 255, 255, 0.75);
+	    --wrapper-style2-button-alt-hover: rgba(255, 255, 255, 0.5);
+	    --wrapper-style2-button-alt-active: rgba(255, 255, 255, 0.2);
+	    --wrapper-style2-button-alt-icon: #bdbdbd;
+	    --wrapper-style2-input: rgba(255, 255, 255, 0.075);
+
+	    --header-logo-hover: rgba(229, 71, 75, 0.75);
+
+	    --nav-panel-shadow: rgba(0, 0, 0, 0.2);
+	    --nav-panel-a: rgba(255, 255, 255, 0.1);
+	    --nav-panel-close: #484848;
+
+	    --banner-background: #0c0c0c;
+
+	    --main-gradient-start: #f3f3f3;
+
+	    --three-inner-article-icon: #b3b3b3;
+
+	}
