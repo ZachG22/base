@@ -47,25 +47,18 @@
 						<a href="<?php echo $this->config->base_url(); ?>">Home</a>
 					</li>
 					<li class="drop-down">
-						<a href="<?php echo $this->config->base_url() . '/about'; ?>">About</a>
+						<a href="<?php echo $this->config->base_url() . 'about'; ?>">About</a>
 					 
 						<div class="mega-menu fadeIn animated">
 							<div class="mm-6column">
 								<span class="left-images">
 									<img src="https://4.bp.blogspot.com/-faF-AemPFUM/U4ryP7pQRsI/AAAAAAAAEvA/fZ-hskCSln4/s1600/Magento%2Bthemes.jpg">
-									<p>Most Popular Styles </p>
+									<p>Test Image </p>
 								</span>
 								<span class="categories-list">
 									<ul>
 										<span>Computer</span>
 										<li>Desktops</li>
-										<li>Laptops</li>
-										<li>Tablets</li>
-										<li>Monitors</li>
-										<li>Networking Printers</li>
-										<li>Scanners</li>
-										<li>Jumpers &amp; Cardigans</li>
-										<li><a class="mm-view-more" href="#">View more →</a></li>
 									</ul>
 								</span>
 							</div>
@@ -76,11 +69,6 @@
 								<li>LED TVs
 								</li><li>Plasma TVs
 								</li><li>3D TVs
-								</li><li>DVD &amp; Blu-ray Players
-								</li><li>Home Theater Systems
-								</li><li>Cell Phones
-								</li><li>Apple iPhone
-								</li><li><a class="mm-view-more" href="#">View more →</a></li>
 							</ul>
 						</span>							
 							</div>
@@ -90,12 +78,6 @@
 							<span>Car Electronics</span>
 							<li>GPS &amp; Navigation</li>
 							<li>In-Dash Stereos</li>
-							<li>Speakers</li>
-							<li>Subwoofers</li>
-							<li>Amplifiers</li>
-						    <li>MP3 Players</li>
-							<li>iPods</li>
-						   	<li><a class="mm-view-more" href="#">View more →</a></li>
 						</ul>
 					</span>
 						</div>

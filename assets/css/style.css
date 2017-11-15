@@ -85,7 +85,7 @@ nav.menu {
 	display: none;
 }
 .xs-menu-cont{
-display:none;
+	display:none;
 }
 .xs-menu-cont > a {
     background: none repeat scroll 0 0 var(--black-color);
@@ -170,7 +170,7 @@ margin-right:25px;
 		background:inherit !important;
 }
 .left-images > p {
-    background: none repeat scroll 0 0 #ff7f50;
+    background: none repeat scroll 0 0 var(--dark-gray);
     display: block;
     font-size: 18px;
     line-height: normal;
@@ -183,7 +183,7 @@ margin-right:25px;
     text-transform: uppercase;
 }
 .mm-view-more{
-	background: none repeat scroll 0 0 #ff7f50;
+	background: none repeat scroll 0 0 var(--dark-gray);
     color: #fff;
     display: inline !important;
     line-height: normal;
@@ -201,21 +201,24 @@ font-family: FontAwesome;
 font-style: normal;
 margin-left: 5px;
  
-
 }
+
  /*MediaQuerys*/
  @media (max-width: 600px) {
-.menu {
- display:none;
- }
- .xs-menu li a {
+	.menu {
+	 	display:none;
+	}
+	 .xs-menu li a {
+		 padding:0px;
+	}
+	 .xs-menu-cont{
+	 display:block ;
+	}
 
-	 padding:0px;
+	.xs-menu-cont > a:hover{
+	 cursor: pointer;
+	}
 }
- .xs-menu-cont{
- display:block ;
- }
- }
 
 
 /*Animation--*/
